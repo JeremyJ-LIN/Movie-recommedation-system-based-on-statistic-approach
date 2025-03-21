@@ -38,7 +38,7 @@ def movies_load(path):
 
 
 # In[3]:
-
+#在读取数据，输入路径
 
 # 读取tmdb_5000_movies数据集
 path_movies = r'D:\myfile\机器学习及推荐系统\24、python-机器学习-进阶实战\唐宇迪-机器学习-进阶实战-资料\14.基于统计分析的电影推荐\电影推荐\tmdb_5000_movies.csv'
